@@ -3,21 +3,21 @@ INSERT INTO Segment  VAlues
 ('Gauteng')
 
 Insert INTO Hospital Values
-('12345','Leboa Hospital','0586213125'),
-('24680','Chuene Hospital','0275418987')
+('12345','knobel Hospital','0586213125'),
+('24680','polokwane Hospital','0275418987')
 
 INSERT INTO Person Values
-('001','Sphe','Kgaka','Doctor'),
-('002','Hlomu','Phasha','Patient')
+('001','gebralters','kaka','Doctor'),
+('002','letheba','Phadishi','Patient')
 
 INSERT INTO Doctor Values
 ('202201','12345678','12345','001'),
 ('202202','24681012','24680','002')
 
 INSERT INTO Patient Values
-('9505011234567','26','001'),
-('0006121245678','22','002')
+('6712134675897','26','001'),
+('2304063455676','22','002')
 
 INSERT INTO Appointment VAlues
-('9505011234567','202202','2022-05-20','8'),
-('0006121245678','202201','2022-05-20','2')
+('6712134675897','202202','2022-05-20','8'),
+('2304063455676','202201','2022-05-20','2')
